@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ejercicio1Arogel.MainPage">
+
+    <StackLayout>
+        <Label Text="Primera App Xamarin" TextColor="Red" FontSize="20" HorizontalTextAlignment="Center"> 
+            
+            </Label>
+
+        <Entry x:Name="txtNombre" 
+               BackgroundColor="Red">
+            
+            
+            
+         </Entry>
+                <Button x:Name="btnAceptar" 
+                        Text="Enviar Saludo" 
+                        Clicked="btnAceptar_Clicked">
+                        
+            
+                </Button>
+        
+      
+    </StackLayout>
+
+</ContentPage>

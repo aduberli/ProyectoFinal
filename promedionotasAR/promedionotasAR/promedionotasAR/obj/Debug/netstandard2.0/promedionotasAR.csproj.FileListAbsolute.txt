@@ -1,0 +1,14 @@
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\bin\Debug\netstandard2.0\promedionotasAR.deps.json
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\bin\Debug\netstandard2.0\promedionotasAR.dll
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\bin\Debug\netstandard2.0\ref\promedionotasAR.dll
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\bin\Debug\netstandard2.0\promedionotasAR.pdb
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\promedionotasAR.csprojAssemblyReference.cache
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\promedionotasAR.AssemblyInfoInputs.cache
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\promedionotasAR.AssemblyInfo.cs
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\promedionotasAR.csproj.CoreCompileInputs.cache
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\promedionotasAR.dll
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\ref\promedionotasAR.dll
+C:\Users\adrog\source\repos\promedionotasAR\promedionotasAR\promedionotasAR\obj\Debug\netstandard2.0\promedionotasAR.pdb

@@ -1,0 +1,14 @@
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\bin\Debug\netstandard2.0\notasprom.deps.json
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\bin\Debug\netstandard2.0\notasprom.dll
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\bin\Debug\netstandard2.0\ref\notasprom.dll
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\bin\Debug\netstandard2.0\notasprom.pdb
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\notasprom.AssemblyInfoInputs.cache
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\notasprom.AssemblyInfo.cs
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\notasprom.csproj.CoreCompileInputs.cache
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\notasprom.dll
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\ref\notasprom.dll
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\notasprom.pdb
+C:\Users\adrog\source\repos\notasprom\notasprom\notasprom\obj\Debug\netstandard2.0\notasprom.csprojAssemblyReference.cache

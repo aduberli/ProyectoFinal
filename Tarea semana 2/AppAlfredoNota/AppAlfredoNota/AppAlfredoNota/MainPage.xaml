@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAlfredoNota.MainPage">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Label Text="Semana3">
+            
+        </Label>
+        <Button x:Name="btAbrirVista dos"
+                Text="Abrir vista dos"
+                Clicked="C">
+            
+        </Button>
+        <Frame BackgroundColor="Blue" CornerRadius="0">
+            <Label Text="NOTAS Y CALIFICACIONES - ALFREDO ROGEL" HorizontalTextAlignment="Center" TextColor="White" FontSize="14"/>
+        </Frame>
+        
+        <Entry Placeholder="MATRICULA DEL ESTUDIANTE" x:Name="Matricula"></Entry>
+
+        <Entry Placeholder="ASIGNATURA" x:Name="Asignatura"></Entry>
+
+        <Entry Placeholder="PROFESOR" x:Name="Profesor"></Entry>
+
+        <Entry Placeholder="Nota Seguimiento 1" x:Name="Seguimiento1" Keyboard="Numeric"></Entry>
+
+        <Entry Placeholder="Exámen 1" x:Name="Examen1" Keyboard="Numeric"></Entry>
+
+        <Entry Placeholder="Notas Parcial 1" x:Name="NotaParcial1" Keyboard="Numeric" FontAttributes="Bold" TextColor="Blue" IsEnabled="false"></Entry>
+
+        <Entry Placeholder="Nota Seguimiento 2" x:Name="Seguimiento2" Keyboard="Numeric"></Entry>
+
+        <Entry Placeholder="Exámen 2" x:Name="Examen2" Keyboard="Numeric"></Entry>
+
+        <Entry Placeholder="Notas Parcial 2" x:Name="NotaParcial2" Keyboard="Numeric" FontAttributes="Bold" TextColor="Blue" IsEnabled="false"></Entry>
+
+        <Entry Placeholder="Nota final" x:Name="NotaFinal" Keyboard="Numeric" FontAttributes="Bold" TextColor="Blue" IsEnabled="false"></Entry>
+
+        <Button Text="CALCULAR" Clicked="BtnCalcular_Clicked" x:Name="BtnCalcular"></Button>
+
+        <Button Text="LIMPIAR" Clicked="BtnLimpiar_Clicked" x:Name="BtnLimpiar"></Button>
+
+
+    </StackLayout>
+
+</ContentPage>
+
+    

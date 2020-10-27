@@ -1,0 +1,14 @@
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\bin\Debug\netstandard2.0\promedionotasArogel.deps.json
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\bin\Debug\netstandard2.0\promedionotasArogel.dll
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\bin\Debug\netstandard2.0\ref\promedionotasArogel.dll
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\bin\Debug\netstandard2.0\promedionotasArogel.pdb
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\promedionotasArogel.csprojAssemblyReference.cache
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\promedionotasArogel.AssemblyInfoInputs.cache
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\promedionotasArogel.AssemblyInfo.cs
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\promedionotasArogel.csproj.CoreCompileInputs.cache
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\promedionotasArogel.dll
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\ref\promedionotasArogel.dll
+C:\Users\adrog\source\repos\promedionotasArogel\promedionotasArogel\promedionotasArogel\obj\Debug\netstandard2.0\promedionotasArogel.pdb

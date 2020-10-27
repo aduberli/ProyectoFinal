@@ -1,0 +1,7 @@
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\build.props
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\adb.props
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\AppAlfredoNota.Android.csprojAssemblyReference.cache
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\adrog\Desktop\Proyectos Móviles\Tarea semana 2\AppAlfredoNota\AppAlfredoNota\AppAlfredoNota.Android\obj\Debug\90\res.flag
